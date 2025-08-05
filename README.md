@@ -12,9 +12,8 @@
 
 ---
 
-## 🚀 Deskripsi
-
-Skrip otomatis untuk menginstal **Soundness Layer**, termasuk Rust dan dependensi yang diperlukan. Cocok untuk developer Web3 yang ingin setup cepat tanpa ribet.
+## 🚀 Description
+An automated script to install the Soundness Layer, including Rust and all required dependencies. Perfect for Web3 developers who want a fast and hassle-free setup.
 
 ---
 
