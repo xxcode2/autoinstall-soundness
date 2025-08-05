@@ -1,21 +1,30 @@
-# 🔧 Auto Install Soundness Layer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xxcode2/autoinstall-soundness/main/assets/logo.png" alt="Soundness Installer Logo" width="120"/>
+</p>
 
-Skrip otomatis untuk menginstal **Soundness Layer**, termasuk Rust dan dependensi yang diperlukan. Cocok untuk developer yang ingin setup cepat tanpa ribet.
+<h1 align="center">🔧 Auto Install Soundness Layer</h1>
 
-## 🚀 Fitur
+<p align="center">
+  <a href="https://github.com/xxcode2/autoinstall-soundness/actions"><img src="https://img.shields.io/github/workflow/status/xxcode2/autoinstall-soundness/CI?style=flat-square" alt="Build Status"/></a>
+  <a href="https://github.com/xxcode2/autoinstall-soundness"><img src="https://img.shields.io/github/license/xxcode2/autoinstall-soundness?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/xxcode2/autoinstall-soundness/issues"><img src="https://img.shields.io/github/issues/xxcode2/autoinstall-soundness?style=flat-square" alt="Issues"/></a>
+</p>
 
-- Instalasi otomatis Rust
-- Setup Soundness Layer via `soundnessup`
-- Update dan konfigurasi environment
-- Generate key dengan nama default `my-key`
+---
 
-## 📦 Cara Instalasi
+## 🚀 Deskripsi
+
+Skrip otomatis untuk menginstal **Soundness Layer**, termasuk Rust dan dependensi yang diperlukan. Cocok untuk developer Web3 yang ingin setup cepat tanpa ribet.
+
+---
+
+## 📦 Instalasi
 
 ### 1. Clone repositori
 
 ```bash
 git clone https://github.com/xxcode2/autoinstall-soundness.git
-cd autoinstall-soundness 
+cd autoinstall-soundness
 
 chmod +x install_soundness.sh
 ./install_soundness.sh
